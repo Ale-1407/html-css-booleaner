@@ -64,4 +64,20 @@ table{
     background-color: aquamarine;
  }
 
- 
+ .contenitore1{
+    background-image: url("/img/monitor.jpg");
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+ }
+
+ .contenitore2{
+    background-image: url("/img/graph.jpg");
+    width: 311px;
+    height: 207px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+ }
